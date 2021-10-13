@@ -25,7 +25,7 @@ Espera-se que dentro de um ano todas as áreas tenham os seus painéis de acompa
 - Resultado Bruto: é a dierença entre a receita e o custo;
 - Despesas/Receitas Operacionais: é a soma das despesas necessárias à atividade e manutenção da 
 empresa;
-- Resultado Antes do Resultado Financeiro e dos Tributos: é dado pela dierença entre o resultado e as despesas operacionais;
+- Resultado Antes do Resultado Financeiro e dos Tributos: é dado pela diferença entre o resultado e as despesas operacionais;
 - Resultado Financeiro: é a soma das despesas com as receitas financeiras;
 - Resultado Antes dos Tributos sobre o Lucro (EBITDA): é dado pelo resultado antes do resultado financeiro e dos tributos subtraindo o resultado financeiro;
 - Lucro/Prejuízo do Exercício: é dado pela diferença entre o EBITDA e os impostos.
