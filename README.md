@@ -11,20 +11,19 @@ A Ambev é uma empresa brasileira dedicada à produção de bebidas, entre as qu
 ## Objetivo
 ***
 Durante uma reunião de benchmark dos gestores com os funcionários descobriu-se que alguns analistas já utilizam Power BI para criar os seus relatórios e que estes irão formar um time para fazer a reestruturação na análise de dados da empresa. Cada analista ficou responsável por uma área, e você foi designado para ajudar o setor financeiro.
-Espera-se que dentro de um ano todas as áreas tenham os seus painéis de acompanhamento e que os relatórios em excel sejam aposentados, diminuindo consideravelmente a quantidade de horas extras pagas, deixando os analista livres para fazerem análises e aumentando o nível de bem estar do funcionários que ficarão menos fatigados devido a quantidade de horas extras.
+Espera-se que dentro de um ano todas as áreas tenham os seus painéis de acompanhamento e que os relatórios em excel sejam apresentados, diminuindo consideravelmente a quantidade de horas extras pagas, deixando os analista livres para fazerem análises e aumentando o nível de bem estar do funcionários que ficarão menos fatigados devido a quantidade de horas extras.
 
 ## Requisitos
 ***
 1. A solução deverá ser desenvolvida utilizando o Power Bi Desktop;
 2. Construa o relatório com pelo menos três páginas: Capa, DRE e Simulador de cenários;
 3. Calcule os seguintes indicadores de acordo com as descrições:
-- Resultado da expresa de forma que os valores respeitem as contas e subcontas de acordo com seu nível;
-- Análíse horizontal: d,Ierença entre o resultado do período atual e o resultado do período anterior, dividida pelo resultado do período anterior. Ou seja, a variação percentual do período anterior;
+- Resultado: expresa de forma que os valores respeitem as contas e subcontas de acordo com seu nível;
+- Análíse horizontal: diferença entre o resultado do período atual e o resultado do período anterior, dividida pelo resultado do período anterior. Ou seja, a variação percentual do período anterior;
 - Receita (Receita Bruta ou Receita de Vendas de Bens e/ou Servçios): é a soma dos valores recebidos pela venda dos produtos;
 - Custo (Custo dos Bens e/ou Serviços): é a soma das despesas para produzir e armazenar os produtos até que seja efetivada a venda;
-- Resultado Bruto: é a dierença entre a receita e o custo;
-- Despesas/Receitas Operacionais: é a soma das despesas necessárias à atividade e manutenção da 
-empresa;
+- Resultado Bruto: é a diferença entre a receita e o custo;
+- Despesas/Receitas Operacionais: é a soma das despesas necessárias à atividade e manutenção da empresa;
 - Resultado Antes do Resultado Financeiro e dos Tributos: é dado pela diferença entre o resultado e as despesas operacionais;
 - Resultado Financeiro: é a soma das despesas com as receitas financeiras;
 - Resultado Antes dos Tributos sobre o Lucro (EBITDA): é dado pelo resultado antes do resultado financeiro e dos tributos subtraindo o resultado financeiro;
@@ -32,7 +31,7 @@ empresa;
 
 ## Dados
 ***
-O dashboard DRE foi contruído utilizando as seguintes bases:
+O dashboard DRE foi construído utilizando as seguintes bases:
 - Arquivo pdf das demonstrações financeiras consolidadas;
 - Arquivo em excel que contém o Plano de Contas.
 
