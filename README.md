@@ -26,7 +26,7 @@ Espera-se que dentro de um ano todas as áreas tenham os seus painéis de acompa
 - Despesas/Receitas Operacionais: é a soma das despesas necessárias à atividade e manutenção da empresa;
 - Resultado Antes do Resultado Financeiro e dos Tributos: é dado pela diferença entre o resultado e as despesas operacionais;
 - Resultado Financeiro: é a soma das despesas com as receitas financeiras;
-- Resultado Antes dos Tributos sobre o Lucro (EBITDA): é dado pelo resultado antes do resultado financeiro e dos tributos subtraindo o resultado financeiro;
+- Resultado Antes dos Tributos sobre o Lucro (EBITDA): é dado pelo resultado antes do resultado financeiro e dos tributos subtraindo o resultado financeiro.
 - Lucro/Prejuízo do Exercício: é dado pela diferença entre o EBITDA e os impostos.
 
 ## Dados
@@ -43,19 +43,19 @@ Resposta: R$ 150,73 mi.
 
 2 Em que ano a empresa teve o menor custo? Qual foi o valor?
 
-Resposta: O menor custo foi no ano de 2017 com valor de  -R$ 18.028,40 mil
+Resposta: O menor custo foi no ano de 2017 com valor de  -R$ 18.028,40 mil.
 
 3 Qual foi o Resultado Bruto do ano de 2019?
 
-Resposta: R$ 30.921,55 mil
+Resposta: R$ 30.921,55 mil.
 
 4 Qual o valor das despesas operacionais em 2017?
 
-Resposta: -R$ 13.321,87 mil
+Resposta: -R$ 13.321,87 mil.
 
 5 Qual o valor do Resultado Financeiro do ano de 2018?
 
-Resposta: -R$ 4.030,30 mil
+Resposta: -R$ 4.030,30 mil.
 
 6 Qual o EBITDA acumulado dos anos de 2017, 2018 e 2019?
 
@@ -63,19 +63,19 @@ Resposta: R$ 38,90 mi.
 
 7 Qual foi o Lucro Líquido do ano de 2019?
 
-Resposta: R$ 12.188,33 mil
+Resposta: R$ 12.188,33 mil.
 
 8 Qual foi a variação entre o Lucro Líquido de 2018 em relação à 2017?
 
-Resposta: 45,72%
+Resposta: 45,72%.
 
 9 Qual o percentual de lucro se aumentar em 15% a receita com base no resultado de 2018?
 
-Resposta:  42,74%
+Resposta:  42,74%.
 
 10 Qual o percentual de lucro se diminuir o custo em 10% com base no resultado de 2018?
 
-Resposta:  37,98%
+Resposta:  37,98%.
 
 # Direitos de Uso
 ***
